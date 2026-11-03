@@ -41,7 +41,7 @@
     "neo4j-driver": "^6.2.0",
     "pg": "^8.23.0",
     "uuid": "^14.0.2",
-    "zod": "^4.4.3"
+    "zod": "^4.6.6"
   },
   "devDependencies": {
     "@eslint/js": "^10.0.1",
